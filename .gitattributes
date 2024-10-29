@@ -1,1 +1,4 @@
 model_1_atul.tflearn.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+*.tflearn filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.py filter=lfs diff=lfs merge=lfs -text
